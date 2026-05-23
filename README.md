@@ -47,3 +47,16 @@ The project successfully predicted calorie burn with near-perfect accuracy and d
 
 ### 13. Business Suggestion/Solution
 Fitness applications can integrate this Random Forest model for highly accurate, real-time calorie tracking directly on wearable devices. Furthermore, the 4 identified clusters can be used to automatically segment users and push personalized coaching recommendations (e.g., "High-Intensity" vs. "Endurance" plans) based on their natural workout habits.
+
+---
+
+### 📂 Project Structure
+- `app.py` → Main Streamlit application dashboard
+- `Fitbit_Analysis_Research.ipynb` → Initial research, EDA, and model training notebook
+- `fitbit_models.pkl.gz` → Compressed trained Machine Learning models and scalers
+- `utils.py` → Custom logic for data preprocessing and derived metric calculations
+- `requirements.txt` → Python project dependencies
+- `Test data/`
+  - `streamlit/` → Local Streamlit dashboard screenshots and Visualizations
+  - `streamlit cloud deploy/` → Streamlit cloud deployment screenshots
+  - `PowerBI_Report/` → Exported dataset and Power BI dashboard file

@@ -1,6 +1,8 @@
 # Fitbit Calorie Burn Prediction & Workout Clustering
 ## Capstone Explanation & Project Report
 
+📌 Note: Built during my data science program using a practice dataset. The end-to-end implementation, modeling, and application were independently developed.
+
 *This document is structured specifically to answer the **Model Building Projects** capstone evaluation guidelines.*
 
 ### 1. Domain Introduction
